@@ -6,5 +6,4 @@ const App =()=>{
   return <Retaurant />
 };
 
-
 export default App;
